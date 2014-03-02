@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog">
+  <group prefer="public">
+      <public publicId="-//OASIS//DTD Entity Resolution XML Catalog V1.0//EN"
+          uri="oasiscatalog.dtd"/>
+  </group>
+</catalog>
