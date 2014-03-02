@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!DOCTYPE catalog PUBLIC "-//OASIS//DTD Entity Resolution XML Catalog V1.0//EN" 
+  "oasiscatalog.dtd">
+
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog">
+  <group prefer="public">
+      <public publicId="-//CFM//DTD dummy test//EN" 
+          uri="../dtd/fleegle.dtd"/>
+  </group>
+</catalog>
