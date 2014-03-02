@@ -5,4 +5,5 @@
       <public publicId="-//OASIS//DTD Entity Resolution XML Catalog V1.0//EN"
           uri="oasiscatalog.dtd"/>
   </group>
+  <nextCatalog catalog="catalog.xml"/>
 </catalog>
